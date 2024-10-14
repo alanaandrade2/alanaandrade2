@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bem-vindo (a) ao meu perfil!
 
 <!--
 **alanaandrade2/alanaandrade2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
